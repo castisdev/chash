@@ -1,0 +1,8 @@
+.idea
+cppcheck-result.xml
+cpplint-result.txt
+build*/
+eclipse/
+.project
+.cproject
+.settings
